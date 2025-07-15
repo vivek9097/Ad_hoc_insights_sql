@@ -1,4 +1,5 @@
 Consumer Goods Ad-Hoc Insights
+
 Overview
 Atliq Hardwares is one of the leading computer hardware producers in India and has a significant presence in other countries as well. The management identified the need for deeper insights to support quick and informed decision-making. This project is aimed at providing ad-hoc insights to the executive management team through data analysis.
 
