@@ -9,19 +9,27 @@ The objective of this project is to analyze various aspects of Atliq Hardwares' 
 
 
 Ad-Hoc Requests
-
 Markets in APAC: List of markets where "Atliq Exclusive" operates in the APAC region.
+
 Unique Product Increase (2020 vs. 2021): Percentage increase in unique products.
+
 Unique Product Counts by Segment: Count of unique products for each segment.
+
 Segment Growth (2020 vs. 2021): Increase in unique products by segment.
+
 Manufacturing Costs: Products with the highest and lowest manufacturing costs.
+
 Top Customers by Average Discount (2021): Top 5 customers by average pre-invoice discount percentage in the Indian market.
+
 Gross Sales by Month: Monthly gross sales amount for "Atliq Exclusive".
+
 Max Total Sold Quantity in 2020: Quarter with the maximum total sold quantity.
+
 Sales Channel Contribution (2021): Sales channel with the highest gross sales and percentage contribution.
+
 Top Products by Division (2021): Top 3 products by total sold quantity in each division.
 
-Visualizations
+Visualizations:
 Visualizations have been created to illustrate each insight and are included in the Consumer goods.pptx.
 
 Usage
