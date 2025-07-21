@@ -24,12 +24,12 @@ The objective of this project is to analyze various aspects of Atliq Hardwares' 
 
 ## Visualizations
 
-Visualizations have been created to illustrate each insight and are included in the `Consumer goods.pptx`. 
+Visualizations have been created to illustrate each insight and are included in the `https://docs.google.com/presentation/d/1vJcVd5oi1ALewcN-pDtxDIkilzSLHLIJ/edit?usp=drive_link&ouid=106692233126887648805&rtpof=true&sd=true`. 
 
 ## Usage
 
 1. **SQL Queries:** 
-   - The SQL queries used to extract insights are available in the `` file. These queries can be run on a MySQL database containing the relevant data.
+   - The SQL queries used to extract insights are available in the `https://drive.google.com/drive/folders/1W56qSAQMUN_vLzhZEODzJbDlxdDwb78R?usp=drive_link` file. These queries can be run on a MySQL database containing the relevant data.
 
 2. **Presentation:**
    - The PowerPoint presentation `https://drive.google.com/file/d/1VyBDwjWcwVqQTnhzbGQgez5xLK7_JfRa/view?usp=drive_link` contains all insights and visualizations. Open it to view or present the findings.
