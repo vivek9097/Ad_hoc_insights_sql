@@ -32,5 +32,5 @@ Visualizations have been created to illustrate each insight and are included in 
    - The SQL queries used to extract insights are available in the `` file. These queries can be run on a MySQL database containing the relevant data.
 
 2. **Presentation:**
-   - The PowerPoint presentation `` contains all insights and visualizations. Open it to view or present the findings.
+   - The PowerPoint presentation `https://drive.google.com/file/d/1VyBDwjWcwVqQTnhzbGQgez5xLK7_JfRa/view?usp=drive_link` contains all insights and visualizations. Open it to view or present the findings.
 
